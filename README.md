@@ -9,4 +9,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=atsutama2&count_private=true&show_icons=true" />
 </a>
 
+</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsutama2&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
