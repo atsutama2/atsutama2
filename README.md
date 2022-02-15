@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=atsutama)
 
-<!--![Metrics](https://metrics.lecoq.io/atsutama2?template=classic&config.timezone=Asia%2FTokyo)-->
+![Metrics](https://metrics.lecoq.io/atsutama2?template=classic&config.timezone=Asia%2FTokyo)
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/atsutama/posts.svg)](http://qiita.com/atsutama)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/atsutama/contributions.svg)](http://qiita.com/atsutama)
