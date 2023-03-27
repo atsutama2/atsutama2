@@ -11,7 +11,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atsutama2&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atsutama2&theme=nord_bright)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=atsutama2)](https://github.com/takaryo/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=atsutama2)](https://github.com/atsutama2/github-profile-trophy)
 ![Altテキスト](github-user-contribution.svg)
 
 
