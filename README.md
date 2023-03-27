@@ -1,19 +1,27 @@
-![](https://komarev.com/ghpvc/?username=atsutama)
+# Hi there 👋 I'm atsutama🌱
 
-![Metrics](https://metrics.lecoq.io/atsutama2?template=classic&config.timezone=Asia%2FTokyo)
-<!--![Visitor Count](https://profile-counter.glitch.me/atsutama2/count.svg) -->
+![](https://komarev.com/ghpvc/?username=atsutama) [![My Qiita posts](https://qiita-badge.apiapi.app/s/atsutama/posts.svg)](http://qiita.com/atsutama) [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20|@takariyo_1010)](https://twitter.com/takariyo_1010) <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/atsutama/posts.svg)](http://qiita.com/atsutama)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/atsutama/contributions.svg)](http://qiita.com/atsutama)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/atsutama/followers.svg)](http://qiita.com/atsutama)
-[![trophy](https://github-profile-trophy.vercel.app/?username=atsutama2)](https://github.com/ryo-ma/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atsutama&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atsutama&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atsutama&theme=nord_bright)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=atsutama)](https://github.com/takaryo/github-profile-trophy)
+![Altテキスト](github-user-contribution.svg)
 
 
 
+<!--
+**atsutama/atsutama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://github.com/atsutama2">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=atsutama2&count_private=true&show_icons=true&theme=swift" />
-</a>
-<a href="https://github.com/atsutama2">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsutama2&layout=compact&theme=swift" />
-</a>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
