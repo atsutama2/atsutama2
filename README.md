@@ -1,11 +1,9 @@
-# Hi there 👋 I'm atsutama🌱
+# Hi there 👋 I'm atsutama<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
 
 
 
 ![](https://komarev.com/ghpvc/?username=atsutama2)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/atsutama2/posts.svg)](http://qiita.com/atsutama)
-<a href="https://golang.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atsutama2&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atsutama2&theme=nord_bright)
