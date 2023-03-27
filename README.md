@@ -2,14 +2,6 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=atsutama2)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/atsutama2/posts.svg)](http://qiita.com/atsutama)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atsutama2&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atsutama2&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atsutama2&theme=nord_bright)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=atsutama2)](https://github.com/atsutama2/github-profile-trophy)
 ![Altテキスト](github-user-contribution.svg)
 
 
