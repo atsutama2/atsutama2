@@ -10,12 +10,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=atsutama2)](https://github.com/atsutama2/github-profile-trophy)
 
-![Altテキスト](github-user-contribution.svg)
-
-
-
 <!--
-**atsutama2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**atsutama2/atsutama2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
