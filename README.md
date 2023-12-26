@@ -7,10 +7,10 @@
   <a href="https://github.com/atsutama2">
     <img height="20" src="https://img.shields.io/github/followers/atsutama2?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/atsutama2">
+  <a href="http://qiita.com/atsutama">
     <img height="20" src="https://qiita-badge.apiapi.app/s/atsutama/posts.svg" />
   </a>
-  <a href="http://qiita.com/atsutama2">
+  <a href="http://qiita.com/atsutama">
     <img height="20" src="https://qiita-badge.apiapi.app/s/atsutama/contributions.svg" />
   </a>
 </p>
