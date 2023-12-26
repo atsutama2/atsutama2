@@ -1,8 +1,23 @@
 # Hi there 👋 I'm atsutama<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
 
+<p align="left">
+  <a href="https://github.com/atsutama">
+    <img height="20" src="https://komarev.com/ghpvc/?username=atsutama" />
+  </a>
+  <a href="https://github.com/atsutama">
+    <img height="20" src="https://img.shields.io/github/followers/atsutama?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/atsutama">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/atsutama/posts.svg" />
+  </a>
+  <a href="http://qiita.com/atsutama">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/atsutama/contributions.svg" />
+  </a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=atsutama2)
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/atsutama2/posts.svg)](http://qiita.com/atsutama)
+
+<!-- ![](https://komarev.com/ghpvc/?username=atsutama2) -->
+<!-- [![My Qiita posts](https://qiita-badge.apiapi.app/s/atsutama2/posts.svg)](http://qiita.com/atsutama) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atsutama2&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=atsutama2&theme=nord_bright)
