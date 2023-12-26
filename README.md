@@ -2,10 +2,10 @@
 
 <p align="left">
   <a href="https://github.com/atsutama">
-    <img height="20" src="https://komarev.com/ghpvc/?username=atsutama" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=atsutama2" />
   </a>
   <a href="https://github.com/atsutama">
-    <img height="20" src="https://img.shields.io/github/followers/atsutama?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/atsutama2?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/atsutama">
     <img height="20" src="https://qiita-badge.apiapi.app/s/atsutama/posts.svg" />
